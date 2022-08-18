@@ -1,3 +1,20 @@
+
+<h2 align="center"> Hey 👋, I'm Muskan Bansal </h2>
+#### Thanks for visiting my profile.
+
+<!--
+Here are some ideas to get you started:
+
+- 🌱 I’m currently learning web development
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+
 # 💫 About Me:
 🌱 I’m currently learning various tools and technologies for web development <br>👯 I’m looking to collaborate on Amazing Projects.<br>🤝 I’m looking for help with Backend Concepts 🛠, Open source<br>💬 Ask me about DSA (C++)
 
