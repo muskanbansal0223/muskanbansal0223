@@ -1,6 +1,6 @@
 
 <h2 align="center"> Hey 👋, I'm Muskan Bansal </h2>
-#### Thanks for visiting my profile.
+
 
 <!--
 Here are some ideas to get you started:
