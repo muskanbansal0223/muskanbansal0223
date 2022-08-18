@@ -1,5 +1,5 @@
-###                                    Hey 👋, I'm Muskan Bansal
-
+ <h2 align="center"> Hey 👋, I'm Muskan Bansal </h2>                        
+<img alt="Girl using laptop" width="300px" height="300px" src="https://i.pinimg.com/originals/ec/65/e0/ec65e0c2c175e337dfa141aeb73d8f3c.jpg" align="right"/>
 <!--
 **muskanbansal0223/muskanbansal0223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
