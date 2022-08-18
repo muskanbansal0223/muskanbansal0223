@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🌱 I’m currently learning various tools and technologies for web development <br>👯 I’m looking to collaborate on Amazing Projects.<br>🤝 I’m looking for help with Backend Concepts 🛠, Open source<br>💬 Ask me about DSA (C++)
+🌱 I’m currently learning various tools and technologies for web development. <br>👯 I’m looking to collaborate on Amazing Projects.<br>🤝 I’m looking for help with Backend Concepts 🛠, Open source<br>💬 Ask me about DSA (C++)
 
 
 # 💻 Tech Stack:
